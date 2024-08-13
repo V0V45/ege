@@ -7,7 +7,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 // Unit-тесты
-class EgeApplicationTests {
+class ResultsProcessorTests {
 	private ResultsProcessor processor;
 	private String PATH_TO_RESULTS;
 	private String PATH_TO_CORRECT_ANSWERS;
